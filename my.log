@@ -1,0 +1,42 @@
+2020-04-26 20:37:38 INFO  Parking:28 - Thread-0 car come to parking
+2020-04-26 20:37:38 INFO  Parking:48 - Place 0 take a car Thread-0
+2020-04-26 20:37:39 INFO  Parking:28 - Thread-1 car come to parking
+2020-04-26 20:37:39 INFO  Parking:48 - Place 1 take a car Thread-1
+2020-04-26 20:37:40 INFO  Parking:28 - Thread-2 car come to parking
+2020-04-26 20:37:40 INFO  Parking:48 - Place 2 take a car Thread-2
+2020-04-26 20:37:41 INFO  Parking:28 - Thread-3 car come to parking
+2020-04-26 20:37:41 INFO  Parking:48 - Place 3 take a car Thread-3
+2020-04-26 20:37:42 INFO  Parking:28 - Thread-4 car come to parking
+2020-04-26 20:37:42 INFO  Parking:48 - Place 4 take a car Thread-4
+2020-04-26 20:37:43 INFO  Parking:72 - Car Thread-0 go away from place  0
+2020-04-26 20:37:43 INFO  Parking:28 - Thread-5 car come to parking
+2020-04-26 20:37:43 INFO  Parking:48 - Place 0 take a car Thread-5
+2020-04-26 20:37:44 INFO  Parking:72 - Car Thread-1 go away from place  1
+2020-04-26 20:37:45 INFO  Parking:72 - Car Thread-2 go away from place  2
+2020-04-26 20:37:46 INFO  Parking:72 - Car Thread-3 go away from place  3
+2020-04-26 20:37:47 INFO  Parking:72 - Car Thread-4 go away from place  4
+2020-04-26 20:37:48 INFO  Parking:72 - Car Thread-5 go away from place  0
+2020-04-26 20:43:22 INFO  Parking:27 - Thread-0 car come to parking
+2020-04-26 20:43:22 INFO  Parking:45 - Place 0 take a car Thread-0
+2020-04-26 20:43:22 INFO  Parking:48 - car stay at parking
+2020-04-26 20:43:23 INFO  Parking:27 - Thread-1 car come to parking
+2020-04-26 20:43:23 INFO  Parking:45 - Place 1 take a car Thread-1
+2020-04-26 20:43:23 INFO  Parking:48 - car stay at parking
+2020-04-26 20:43:24 INFO  Parking:27 - Thread-2 car come to parking
+2020-04-26 20:43:24 INFO  Parking:45 - Place 2 take a car Thread-2
+2020-04-26 20:43:24 INFO  Parking:48 - car stay at parking
+2020-04-26 20:43:25 INFO  Parking:27 - Thread-3 car come to parking
+2020-04-26 20:43:25 INFO  Parking:45 - Place 3 take a car Thread-3
+2020-04-26 20:43:25 INFO  Parking:48 - car stay at parking
+2020-04-26 20:43:26 INFO  Parking:27 - Thread-4 car come to parking
+2020-04-26 20:43:26 INFO  Parking:45 - Place 4 take a car Thread-4
+2020-04-26 20:43:26 INFO  Parking:48 - car stay at parking
+2020-04-26 20:43:27 INFO  Parking:27 - Thread-5 car come to parking
+2020-04-26 20:43:27 INFO  Parking:68 - Car Thread-0 go away from place  0
+2020-04-26 20:43:27 INFO  Parking:45 - Place 0 take a car Thread-5
+2020-04-26 20:43:27 INFO  Parking:48 - car stay at parking
+2020-04-26 20:43:28 INFO  Parking:68 - Car Thread-1 go away from place  1
+2020-04-26 20:43:29 INFO  Parking:68 - Car Thread-2 go away from place  2
+2020-04-26 20:43:30 INFO  Parking:68 - Car Thread-3 go away from place  3
+2020-04-26 20:43:31 INFO  Parking:68 - Car Thread-4 go away from place  4
+2020-04-26 20:43:32 INFO  Parking:68 - Car Thread-5 go away from place  0
